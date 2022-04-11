@@ -1,0 +1,96 @@
+@import url("https://fonts.googleapis.com/css2?family=Ubuntu&display=swap");
+body {
+  background: #75bba7;
+  font-family: "Ubuntu", sans-serif;
+}
+.titlu {
+  text-align: center;
+  color: #6c809a;
+  font-size: 50px;
+  -webkit-text-stroke-width: 0.1px;
+  -webkit-text-stroke-color: #000;
+}
+.copii1 {
+  width: 50%;
+  float: left;
+  position: relative;
+}
+.text1 {
+  font-size: 30px;
+  text-indent: 30px;
+}
+.text2 {
+  font-size: 30px;
+  text-indent: 30px;
+}
+.fixed {
+  position: fixed;
+  background: rgba(117, 187, 167, 0.5);
+  width: fit-content;
+  /* margin: 25% 0.1% 0 90%; */
+  outline: 3px solid #fff;
+  padding: 2px;
+  border-radius: 10px;
+  color: #000;
+  font-size: 20px;
+  top: 50%;
+  right: 0;
+}
+.list li {
+  list-style-type: none;
+  display: inline;
+  outline-style: solid;
+  outline: auto;
+}
+a {
+  text-decoration: none;
+  color: white;
+  background: #6c809a;
+  font-size: 30px;
+  width: fit-content;
+}
+.tabel {
+  border-collapse: collapse;
+  display: inline-block;
+  margin-right: 15em;
+  margin-bottom: 2em;
+}
+td,
+th {
+  border: 2px solid #000;
+  font-size: 30px;
+  padding: 4px;
+  text-align: center;
+}
+.tabelh {
+  font-size: 30px;
+}
+
+.copii4 {
+  display: inline-block;
+}
+
+.u1 {
+  margin-left: 20%;
+}
+
+.copii2 {
+  margin-left: 2em;
+  margin-right: 15em;
+}
+
+.copii5 {
+  margin-left: 15em;
+  margin-right: 8em;
+}
+
+.copii6 {
+  margin-top: 2em;
+  margin-right: 2em;
+}
+
+.video1 {
+  margin: 3em 0 2.5em 25%;
+  height: 50%;
+  width: 50%;
+}
